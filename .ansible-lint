@@ -3,7 +3,5 @@ profile: production
 
 exclude_paths:
   - changelogs/changelog.yaml
-  - changelogs/fragments/
   - .github/
   - tests/integration
-  - meta/
